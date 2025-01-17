@@ -1,0 +1,72 @@
+1. Startseite
+Ziel: Überblick über die Firma und ihre Fachgebiete.
+
+Header:
+
+Logo der Firma
+Navigation (Links zu anderen Seiten)
+Telefonnummer und E-Mail für schnelle Kontaktaufnahme
+Hauptinhalt:
+
+Kurzer Einleitungstext über die Firma und ihre Philosophie.
+Hervorgehobene Fachgebiete:
+Badmodernisierung
+Heizungsinstallation
+Footer:
+
+Kontaktdaten (Adresse, Telefon, E-Mail)
+Öffnungszeiten (falls relevant)
+Links zu Impressum und Datenschutz
+2. Über uns
+Ziel: Vorstellung der Firma und ihres Teams.
+
+Kurze Geschichte der Holletzek OHG
+Vorstellung des Teams (falls gewünscht, mit Fotos und Rollen)
+Werte und Philosophie der Firma
+3. Leistungen
+Ziel: Detaillierte Informationen zu den Fachgebieten.
+
+Badmodernisierung:
+
+Planung und Design
+Komplettsanierung
+Individuelle Lösungen
+Heizungsinstallation:
+
+Beratung und Installation
+Wartung und Reparatur
+Nachhaltige Heizungssysteme
+4. Kontakt
+Ziel: Kunden ermöglichen, schnell mit der Firma in Verbindung zu treten.
+
+Kontaktformular:
+
+Name, E-Mail, Telefonnummer
+Freitextfeld für Anfragen
+Datenschutzhinweis
+Kontaktdaten:
+
+Adresse: Düsseldorfer Straße 212, 40822 Mettmann
+Telefon: 02104 75542
+Fax: 02104 211001
+E-Mail: holletzek.ohg(at)gmx.de
+Anfahrtsbeschreibung:
+
+Google Maps Integration für die Navigation
+5. Impressum & Datenschutz
+Ziel: Rechtliche Anforderungen erfüllen.
+
+Firmenname: Holletzek OHG
+Adresse: Düsseldorfer Straße 212, 40822 Mettmann
+Kontakt: Telefon, Fax, E-Mail
+Umsatzsteuer-ID (falls erforderlich)
+Datenschutzrichtlinien (mit Cookie-Hinweis, falls Tracking genutzt wird)
+Optional: Galerie (falls Bilder vorhanden)
+Ziel: Arbeiten und Projekte präsentieren.
+
+Vorher/Nachher-Bilder von Badmodernisierungen
+Beispiele für installierte Heizungsanlagen
+Technische Umsetzung:
+Responsive Design (optimiert für Mobilgeräte und Desktop)
+Simpler, moderner Look mit Fokus auf Nutzerfreundlichkeit
+Farblich passende Gestaltung, die Vertrauen und Professionalität vermittelt
